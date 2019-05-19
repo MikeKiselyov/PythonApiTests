@@ -1,0 +1,74 @@
+{
+   "propertyType":{
+      "ownershipType":"Sectional Title Complex",
+      "propertyZoning":"residential"
+   },
+   "services":[
+      {
+         "serviceName":"Insurance Valuation",
+         "assets":[
+            {
+               "name":"common property & sections"
+            }
+         ],
+         "numberOfUnitsToUpgrade":null,
+         "vehiclesNumber":null
+      }
+   ],
+   "formData":{
+      "address":{
+         "streetAddress":"Test_sectional_title_residential_plus_insurance_Valuation",
+         "addressLine2":"Test_sectional_title_residential_plus_insurance_Valuation",
+         "suburb":"Test_sectional_title_residential_plus_insurance_Valuation",
+         "city":"Test_sectional_title_residential_plus_insurance_Valuation",
+         "province":"Eastern Cape",
+         "contactPerson":"Test_sectional_title_residential_plus_insurance_Valuation",
+         "legalDescriptionOfProperty":"Test_sectional_title_residential_plus_insurance_Valuation",
+         "contactPersonTelephoneNumber":"123 ___ _____",
+         "contactPersonPropertyAccessEmail":""
+      },
+      "requestor":{
+         "requestorName":"Super Requestor",
+         "requestorEmail":"test@requestor.test",
+         "requestorPhoneNumber":"",
+         "requestorFunction":"Insurer",
+         "clientsEmails":null,
+         "requestorPolicyHolder":null,
+         "requestorCurrentSumInsured":null,
+         "requestorInsurancyAdvisor":null,
+         "requestorInsurancyPolicyNumber":null
+      },
+      "items":[
+         {
+            "name":"NoOfRegistredSections",
+            "value":123
+         },
+         {
+            "name":"BodyCorporateName",
+            "value":"Test_sectional_title_residential_plus_insurance_Valuation"
+         }
+      ],
+      "fileAttachments":[
+
+      ],
+      "billingDetails":{
+         "invoicedSubject":"Test_sectional_title_residential_plus_insurance_Valuation",
+         "co":null,
+         "address":{
+            "city":"Test_sectional_title_residential_plus_insurance_Valuation",
+            "streetAddress":"Test_sectional_title_residential_plus_insurance_Valuation",
+            "addressLine2":"Test_sectional_title_residential_plus_insurance_Valuation"
+         },
+         "vatNumber":""
+      },
+      "distributionRecipients":[
+
+      ]
+   },
+   "formsOptions":{
+      "showDistributionList":false,
+      "showInsuranceDetailsList":false,
+      "billingAddressSame":true,
+      "havePromotionCode":false
+   }
+}
